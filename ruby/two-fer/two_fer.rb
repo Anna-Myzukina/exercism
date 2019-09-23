@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class TwoFer
   class << self
     def two_fer(name = 'you')
